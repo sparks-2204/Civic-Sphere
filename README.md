@@ -1,4 +1,4 @@
-# Government Notification MVP
+# Government Notification
 
 A full-stack application that automatically crawls government websites for notifications, summarizes them using AI, and provides a centralized dashboard for citizens.
 
